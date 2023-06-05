@@ -86,8 +86,8 @@ print(X_test)
 print("Size of X_test: ",len(X_test))
 ```
 ```
-Developed By : P. Ritik Samuel
-Reg NO : 212221040138
+Developed By : HIBA RAJARAJESWARI 
+Reg NO : 212221040056
 ```
 ## OUTPUT:
 
